@@ -13,6 +13,7 @@ namespace Bank
         public GUI(bool status)
         {
             Status = status;
+            
         }
 
         public void MainMenu()
@@ -104,7 +105,6 @@ namespace Bank
             WriteWithColor("How much do you want to insert? ", ConsoleColor.White, ConsoleColor.Black);
             SetChar('#', 40, ConsoleColor.White, ConsoleColor.White);
             Console.SetCursorPosition(32, 4);
-            Console.WriteLine("Hej");
             Console.ReadKey();
         }
         private void WithdrawMenu()

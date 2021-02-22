@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TGPGamez\\Source\\Repos\\MyBanker\\Bank\\Bank.csproj",
+      "projectUniqueName": "C:\\Users\\TGPGamez\\Source\\Repos\\H2-MyBanker\\Bank\\Bank.csproj",
       "projectName": "Bank",
-      "projectPath": "C:\\Users\\TGPGamez\\Source\\Repos\\MyBanker\\Bank\\Bank.csproj",
+      "projectPath": "C:\\Users\\TGPGamez\\Source\\Repos\\H2-MyBanker\\Bank\\Bank.csproj",
       "packagesPath": "C:\\Users\\TGPGamez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TGPGamez\\Source\\Repos\\MyBanker\\Bank\\obj\\",
+      "outputPath": "C:\\Users\\TGPGamez\\Source\\Repos\\H2-MyBanker\\Bank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
