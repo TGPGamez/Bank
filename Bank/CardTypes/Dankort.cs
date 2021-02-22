@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Bank.CardTypes
 {
-    class Dankort : Card, IExpire
+    public class Dankort : Card, IExpire
     {
         private string[] prefixes = { "4" };
 

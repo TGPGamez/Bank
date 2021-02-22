@@ -5,7 +5,7 @@ using Bank.CardTypes;
 
 namespace Bank
 {
-    abstract class Card
+    public abstract class Card
     {
 		#region Properties
 		protected string bankName;
@@ -21,56 +21,56 @@ namespace Bank
         public string BankName
 		{
 			get { return bankName; }
-			set { bankName = value; }
+			private set { bankName = value; }
 		}
 
 		public string Type
 		{
 			get { return type; }
-			set { type = value; }
+			private set { type = value; }
 		}
 
 		public string Number
 		{
 			get { return number; }
-			set { number = value; }
+			private set { number = value; }
 		}
 
 		public string HolderName
 		{
 			get { return holderName; }
-			set { holderName = value; }
+			private set { holderName = value; }
 		}
 
 		public string RegNr
 		{
 			get { return regNr; }
-			set { regNr = value; }
+			private set { regNr = value; }
 		}
 
 
 		public string AccountNumber
 		{
 			get { return accountNumber; }
-			set { accountNumber = value; }
+			private set { accountNumber = value; }
 		}
 
 		public string Cvv
 		{
 			get { return cvv; }
-			set { cvv = value; }
+			private set { cvv = value; }
 		}
 
 		public double Balance
 		{
 			get { return balance; }
-			set { balance = value; }
+			private set { balance = value; }
 		}
 
 		public int Length
 		{
 			get { return length; }
-			set { length = value; }
+			private set { length = value; }
 		}
 		#endregion
 
@@ -97,7 +97,7 @@ namespace Bank
 			return cardNumber;
 		}
 
-		private string GenerateAccountNumber()
+		protected string GenerateAccountNumber()
 		{
 			Random random = new Random();
 			string cardNumber = "3520-";
@@ -108,7 +108,7 @@ namespace Bank
 			return cardNumber;
 		}
 
-		private string GenerateCvv()
+		protected string GenerateCvv()
 		{
 			Random random = new Random();
 			string cvvNumber = "";

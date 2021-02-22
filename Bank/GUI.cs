@@ -95,15 +95,13 @@ namespace Bank
 
         private void InsertMenu()
         {
-            Console.SetCursorPosition(0, 0);
+            Console.Clear();
             SetChar('#', 40, ConsoleColor.White, ConsoleColor.White);
             SetChar('#', 1, ConsoleColor.Black, ConsoleColor.Black);
             WriteWithColor("   Insert menu   ", ConsoleColor.White, ConsoleColor.Black);
             Console.WriteLine();
             WriteWithColor("Here you can insert money to you bank.", ConsoleColor.White, ConsoleColor.Black);
             WriteWithColor("How much do you want to insert? ", ConsoleColor.White, ConsoleColor.Black);
-            Console.WriteLine(" ");
-            Console.WriteLine(" ");
             SetChar('#', 40, ConsoleColor.White, ConsoleColor.White);
             Console.SetCursorPosition(32, 4);
             Console.WriteLine("Hej");

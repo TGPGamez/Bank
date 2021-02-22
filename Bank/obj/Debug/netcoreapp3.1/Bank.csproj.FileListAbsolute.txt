@@ -9,3 +9,16 @@ C:\Users\tobi8268\source\repos\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyIn
 C:\Users\tobi8268\source\repos\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
 C:\Users\tobi8268\source\repos\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.dll
 C:\Users\tobi8268\source\repos\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\obj\Debug\netcoreapp3.1\Bank.csprojAssemblyReference.cache
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\TGPGamez\Source\Repos\MyBanker\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
